@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sarahfourar
+- 👋 Hi, I’m sarah
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
